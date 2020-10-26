@@ -29,7 +29,7 @@
 .hero-background-img:after {
   content: "";
   position: absolute;
-  background-image: url("file-name.jpg");
+  background-image: url("michael-olsen-unsplash.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
